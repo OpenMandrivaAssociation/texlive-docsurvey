@@ -1,6 +1,6 @@
 Name:		texlive-docsurvey
 Version:	61447
-Release:	1
+Release:	2
 Summary:	A survey of LaTeX documentation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/docsurvey
