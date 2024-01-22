@@ -1,5 +1,5 @@
 Name:		texlive-docsurvey
-Version:	69343
+Version:	69417
 Release:	1
 Summary:	A survey of LaTeX documentation
 Group:		Publishing
